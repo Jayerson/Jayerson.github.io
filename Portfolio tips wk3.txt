@@ -1,0 +1,23 @@
+echo (string) >> file.ext
+
+directory with timestamp: ls -l
+
+rm -r to remove all files, subfolders, and folder
+
+
+
+landing space: summary
+data job exposition
+
+about:
+ - paragraphs
+ - towards end
+ - interests: streamline (own-page or expand-on-click)
+
+Skills: Tech skills
+html, scss/css, js, java, git, c++, c,
+ - icons (font-awesome)
+
+Projects
+ - coding
+ - engineering project section/page (streamlined experience)
