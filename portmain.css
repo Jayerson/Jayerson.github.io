@@ -13,6 +13,8 @@ nav {
   display: flex;
   justify-content: space-around;
   width: 100%;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 a:link {
@@ -28,6 +30,7 @@ a:visited {
 
 .box1 {
   border: 3px solid slategrey;
+  border-radius: 40px 10px 40px 10px;
   margin: 20px;
   display: grid;
   grid-template-columns: 1fr 2fr 2fr;
@@ -52,10 +55,11 @@ a:visited {
   align-items: center;
 }
 .box1__button--collapsible {
-  height: 33%;
-  width: 33%;
+  height: 40px;
+  width: 150px;
   background-color: #304050;
   color: chocolate;
+  margin: 20px;
 }
 .box1__button--collapsible:hover {
   background-color: slategrey;
@@ -87,6 +91,7 @@ a:visited {
 
 .box {
   border: 3px solid slategrey;
+  border-radius: 40px 10px 40px 10px;
   margin: 20px;
 }
 .box__spaced {
@@ -115,6 +120,7 @@ p {
 
 a,
 button {
+  font-weight: bold;
   font-family: courier;
 }
 
