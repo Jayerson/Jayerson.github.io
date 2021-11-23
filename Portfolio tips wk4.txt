@@ -1,0 +1,19 @@
+
+SCSS - create some small partials for palette and  media queries mixins
+Across webpage
+Fix margins
+Add “Back to top to every section” (bottom right corner?)
+Make every section 100vh to make it seem like it’s a different page
+Landing - Leave name with job tags, and included image as background for landing section
+About Me
+Move text from landing into about me
+Add placeholder picture where Interest Topics picture (which will disappear when button clicked to make room for links/text)
+Skills
+Add all remaining techs (SCSS, Git, Java, Spring, SQL, ReactJS, AWS, …)
+Center icons and resize them to take more space
+Fix the margin/padding around the icons to have text closer to them
+Projects
+Create layout with placeholders (make sure to include GitHub link and live version link)
+Contact
+Maybe use icons for links
+Fix positioning/ margin and padding
