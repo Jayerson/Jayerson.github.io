@@ -1,0 +1,10 @@
+
+Nav bar: left - parallax
+Large screen: Spaceship nav bar scrolls with page
+Small screen: top spaceship nav bar, left nav button scrolls
+
+resize boxes? adaptive:
+each section is 1 vh, box centred on screen:
+ < whitespace is very uneven >
+
+priority is portfolio
